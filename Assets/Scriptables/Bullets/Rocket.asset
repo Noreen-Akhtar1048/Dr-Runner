@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c26002acf55d3d44a8f26f7b76c5841, type: 3}
+  m_Name: Rocket
+  m_EditorClassIdentifier: 
+  ProjectileVisual: {fileID: 8854619882081110099, guid: 6ace0503f5f5e6e44831975f9aeed05d, type: 3}
+  damage: 30
+  projectileSpeed: 2
+  ProjectileVfx: {fileID: 100000, guid: f0dfee0d06ac947f090e208b34c71abc, type: 3}
+  direction: {x: 0, y: 0, z: 0}
+  VisualRotation: {x: 0, y: 0, z: 0}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c26002acf55d3d44a8f26f7b76c5841, type: 3}
+  m_Name: AkBullet
+  m_EditorClassIdentifier: 
+  ProjectileVisual: {fileID: 116712, guid: 630002214f8cfe04abae9f59a39b8265, type: 3}
+  damage: 10
+  projectileSpeed: 0.1
+  ProjectileVfx: {fileID: 157586, guid: 7ea3428badc54804f96dc6a7fe03359d, type: 3}
+  direction: {x: 0, y: 0, z: 0}
+  VisualRotation: {x: 0, y: -90, z: -90}

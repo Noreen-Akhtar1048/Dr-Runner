@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797159490648",
+    "project_id": "dr-runner",
+    "storage_bucket": "dr-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797159490648:android:6269c8e8468eea809eb62d",
+        "android_client_info": {
+          "package_name": "com.gtgames.dr.runner.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnuiy3JBgfeUW8Fb9dA9AzZy9r-LbvcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

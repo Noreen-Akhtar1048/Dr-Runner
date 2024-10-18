@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &689682758747304944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1346948726955832885}
+  - component: {fileID: 7750996918678058796}
+  - component: {fileID: 350221704450936698}
+  - component: {fileID: 2899164606481402751}
+  m_Layer: 0
+  m_Name: Bullet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1346948726955832885
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 689682758747304944}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7750996918678058796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 689682758747304944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51571452573422e47814fc34e45c5ae3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isEnemyProjectile: 0
+  type: 0
+  ProjectileScriptableSO:
+  - {fileID: 11400000, guid: 146896fb3ca56664b9ab5f64d9630db2, type: 2}
+  - {fileID: 11400000, guid: 0187ace01cc69644ba5fc07349adb7ee, type: 2}
+  - {fileID: 11400000, guid: de607651dcc66bd409aff590b25ded38, type: 2}
+  - {fileID: 11400000, guid: ee8f523bd95846a448d59fbe3782ddab, type: 2}
+  - {fileID: 11400000, guid: ee64eb8d9a7a9f74d90d4563343c8cad, type: 2}
+  - {fileID: 11400000, guid: 9bb7162676a1c59438b23d00e8fd0df9, type: 2}
+  - {fileID: 11400000, guid: 0c7362ce9ddcca742b317e9ab4559d16, type: 2}
+  - {fileID: 11400000, guid: 1c18c9fc5edf827499694afcb0de1000, type: 2}
+  - {fileID: 11400000, guid: 0b0413b0802c1024e9bc4110ab9db966, type: 2}
+  - {fileID: 11400000, guid: ac941d4ab6ad0ef41acd80e8de01d08f, type: 2}
+  - {fileID: 11400000, guid: f2a8e5307b349db45bec88b3ae22bd5a, type: 2}
+  - {fileID: 11400000, guid: fc1aca21865b85b4f835edff72e24685, type: 2}
+  - {fileID: 11400000, guid: 07c6021e5e8cc594599e4d06150de0a6, type: 2}
+  ProjectileVisual: {fileID: 0}
+  damage: 0
+  projectileSpeed: 0
+  ProjectileVfx: {fileID: 0}
+  direction: {x: 0, y: 0, z: 1}
+--- !u!65 &350221704450936698
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 689682758747304944}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.038470507, y: 0.036693074, z: 0.16803685}
+  m_Center: {x: -0.0018326119, y: 0.00048196688, z: 0.0005931705}
+--- !u!54 &2899164606481402751
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 689682758747304944}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

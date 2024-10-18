@@ -1,0 +1,3075 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 1224
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 338
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 350
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 2448
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 816
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 3672
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 688
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 700
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 4896
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 1632
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 6120
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 1038
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 1050
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 7344
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 2448
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 8568
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 1388
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 1400
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 9792
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 3264
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 11016
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 1738
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 1750
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 12240
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 4080
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 13464
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 2088
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 2100
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 14688
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 4896
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 15912
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 2438
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 2450
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 17136
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 5712
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 18360
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 2788
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 2800
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 19584
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 6528
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 20808
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 3138
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 3150
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 22032
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 7344
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 23256
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 3488
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 3500
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 24480
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 8160
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 25704
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 3838
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 3850
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 26928
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 8976
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 28152
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 4188
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 4200
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 29376
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 9792
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 30600
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 4538
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 4550
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 31824
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 10608
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 33048
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 4888
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 4900
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 34272
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 11424
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 35496
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 5238
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 5250
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 36720
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 12240
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 37944
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 5588
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 5600
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 39168
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 13056
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 40392
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 5938
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 169,
+            "type": "SCALAR",
+            "byteOffset": 5950
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9228310585021973,
+                0.9228310585021973,
+                1
+            ],
+            "min": [
+                -0.9228310585021973,
+                -0.9228310585021973,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 41616
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                0.9834151268005371,
+                0.8891742825508118
+            ],
+            "min": [
+                0.016614999622106552,
+                0.12263999879360199
+            ],
+            "type": "VEC2",
+            "byteOffset": 13872
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 102,
+            "max": [
+                34.99972915649414,
+                34.99972915649414,
+                5.999945163726807
+            ],
+            "min": [
+                -35.000301361083984,
+                -35.000301361083984,
+                -6.000060081481934
+            ],
+            "type": "VEC3",
+            "byteOffset": 42840
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 6288
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 1509,
+            "type": "SCALAR",
+            "byteOffset": 6300
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 782,
+            "max": [
+                0.999997615814209,
+                0.999997615814209,
+                1
+            ],
+            "min": [
+                -0.999997615814209,
+                -0.999997615814209,
+                -1
+            ],
+            "type": "VEC3",
+            "byteOffset": 44064
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 782,
+            "max": [
+                0.9802029132843018,
+                0.9043704867362976
+            ],
+            "min": [
+                0.01979999989271164,
+                0.01862029917538166
+            ],
+            "type": "VEC2",
+            "byteOffset": 14688
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 782,
+            "max": [
+                36.03916931152344,
+                120.14321899414062,
+                36.040103912353516
+            ],
+            "min": [
+                -36.532100677490234,
+                -0.0459728017449379,
+                -35.61819839477539
+            ],
+            "type": "VEC3",
+            "byteOffset": 53448
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "byteOffset": 9318
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 717,
+            "type": "SCALAR",
+            "byteOffset": 9330
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 402,
+            "max": [
+                0.9917042851448059,
+                0.999997615814209,
+                0.991421103477478
+            ],
+            "min": [
+                -0.9916970729827881,
+                -0.999997615814209,
+                -0.991421103477478
+            ],
+            "type": "VEC3",
+            "byteOffset": 62832
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 402,
+            "max": [
+                0.9815167784690857,
+                0.8322498202323914
+            ],
+            "min": [
+                0.02304689958691597,
+                0.022154999896883965
+            ],
+            "type": "VEC2",
+            "byteOffset": 20944
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 402,
+            "max": [
+                74.98847198486328,
+                120.0478286743164,
+                71.0418472290039
+            ],
+            "min": [
+                -62.76459884643555,
+                -0.045978400856256485,
+                -65.80419921875
+            ],
+            "type": "VEC3",
+            "byteOffset": 67656
+        },
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 18,
+            "type": "SCALAR",
+            "byteOffset": 10764
+        }
+    ],
+    "asset": {
+        "extras": {
+            "author": "bariacg (https://sketchfab.com/bariacg)",
+            "license": "Standard (https://sketchfab.com/licenses)",
+            "source": "https://sketchfab.com/3d-models/coin-pack-3cdb23635b1f4b59849b512466279604",
+            "title": "Coin Pack"
+        },
+        "generator": "OpenSceneGraph",
+        "version": "2.0"
+    },
+    "buffers": [
+        {
+            "byteLength": 107440,
+            "uri": "Coin Pack.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 10800,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 10800,
+            "byteStride": 12,
+            "byteLength": 72480,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 83280,
+            "byteStride": 8,
+            "byteLength": 24160,
+            "target": 34962
+        }
+    ],
+    "images": [
+        {
+            "uri": "images/Coin_Star_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Star_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Star_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Thunder_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Thunder_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Thunder_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Skull_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Skull_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Skull_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Crown_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Crown_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Crown_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Dollar_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Dollar_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Dollar_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Heart_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Heart_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Heart_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Pet_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_Pet_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_Pet_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_One_Gold_Albedo.png"
+        },
+        {
+            "uri": "images/Coin_One_Gold_Normal.png"
+        },
+        {
+            "uri": "images/Coin_One_Silver_Albedo.png"
+        },
+        {
+            "uri": "images/Coins_01_Albedo.png"
+        },
+        {
+            "uri": "images/Coins_01_Normal.png"
+        },
+        {
+            "uri": "images/Coins_02_Albedo.png"
+        },
+        {
+            "uri": "images/Coins_02_Normal.png"
+        }
+    ],
+    "materials": [
+        {
+            "doubleSided": true,
+            "name": "Coin_Star_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 1
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 0
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Star_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 1
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 2
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 4
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 3
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 4
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 5
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Thunder_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 7
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 6
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Thunder_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 7
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 8
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Skull_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 10
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 9
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Skull_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 10
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 11
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Crown_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 13
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 12
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Crown_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 13
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 14
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Dollar_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 16
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 15
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Dollar_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 16
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 17
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Heart_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 19
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 18
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Heart_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 19
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 20
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Pet_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 22
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 21
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_Pet_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 22
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 23
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_One_Gold",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 25
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 24
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coin_One_Silver",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 25
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 26
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coins_01",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 28
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 27
+                }
+            }
+        },
+        {
+            "doubleSided": true,
+            "name": "Coins_02",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 30
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 29
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Coin_Star_Gold_Coin_Star_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2,
+                        "POSITION": 3
+                    },
+                    "indices": 0,
+                    "material": 0,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2,
+                        "POSITION": 3
+                    },
+                    "indices": 4,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Star_Silver_Coin_Star_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 6,
+                        "TEXCOORD_0": 7,
+                        "POSITION": 8
+                    },
+                    "indices": 5,
+                    "material": 1,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 6,
+                        "TEXCOORD_0": 7,
+                        "POSITION": 8
+                    },
+                    "indices": 9,
+                    "material": 1,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Silver_Coin_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 11,
+                        "TEXCOORD_0": 12,
+                        "POSITION": 13
+                    },
+                    "indices": 10,
+                    "material": 2,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 11,
+                        "TEXCOORD_0": 12,
+                        "POSITION": 13
+                    },
+                    "indices": 14,
+                    "material": 2,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Gold_Coin_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 16,
+                        "TEXCOORD_0": 17,
+                        "POSITION": 18
+                    },
+                    "indices": 15,
+                    "material": 3,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 16,
+                        "TEXCOORD_0": 17,
+                        "POSITION": 18
+                    },
+                    "indices": 19,
+                    "material": 3,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Thunder_Gold_Coin_Thunder_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 21,
+                        "TEXCOORD_0": 22,
+                        "POSITION": 23
+                    },
+                    "indices": 20,
+                    "material": 4,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 21,
+                        "TEXCOORD_0": 22,
+                        "POSITION": 23
+                    },
+                    "indices": 24,
+                    "material": 4,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Thunder_Silver_Coin_Thunder_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 26,
+                        "TEXCOORD_0": 27,
+                        "POSITION": 28
+                    },
+                    "indices": 25,
+                    "material": 5,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 26,
+                        "TEXCOORD_0": 27,
+                        "POSITION": 28
+                    },
+                    "indices": 29,
+                    "material": 5,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Skull_Silver_Coin_Skull_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 31,
+                        "TEXCOORD_0": 32,
+                        "POSITION": 33
+                    },
+                    "indices": 30,
+                    "material": 6,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 31,
+                        "TEXCOORD_0": 32,
+                        "POSITION": 33
+                    },
+                    "indices": 34,
+                    "material": 6,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Skull_Gold_Coin_Skull_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 36,
+                        "TEXCOORD_0": 37,
+                        "POSITION": 38
+                    },
+                    "indices": 35,
+                    "material": 7,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 36,
+                        "TEXCOORD_0": 37,
+                        "POSITION": 38
+                    },
+                    "indices": 39,
+                    "material": 7,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Crown_Gold_Coin_Crown_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 41,
+                        "TEXCOORD_0": 42,
+                        "POSITION": 43
+                    },
+                    "indices": 40,
+                    "material": 8,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 41,
+                        "TEXCOORD_0": 42,
+                        "POSITION": 43
+                    },
+                    "indices": 44,
+                    "material": 8,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Crown_Silver_Coin_Crown_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 46,
+                        "TEXCOORD_0": 47,
+                        "POSITION": 48
+                    },
+                    "indices": 45,
+                    "material": 9,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 46,
+                        "TEXCOORD_0": 47,
+                        "POSITION": 48
+                    },
+                    "indices": 49,
+                    "material": 9,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Dollar_Silver_Coin_Dollar_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 51,
+                        "TEXCOORD_0": 52,
+                        "POSITION": 53
+                    },
+                    "indices": 50,
+                    "material": 10,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 51,
+                        "TEXCOORD_0": 52,
+                        "POSITION": 53
+                    },
+                    "indices": 54,
+                    "material": 10,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Dollar_Gold_Coin_Dollar_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 56,
+                        "TEXCOORD_0": 57,
+                        "POSITION": 58
+                    },
+                    "indices": 55,
+                    "material": 11,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 56,
+                        "TEXCOORD_0": 57,
+                        "POSITION": 58
+                    },
+                    "indices": 59,
+                    "material": 11,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Heart_Gold_Coin_Heart_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 61,
+                        "TEXCOORD_0": 62,
+                        "POSITION": 63
+                    },
+                    "indices": 60,
+                    "material": 12,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 61,
+                        "TEXCOORD_0": 62,
+                        "POSITION": 63
+                    },
+                    "indices": 64,
+                    "material": 12,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Heart_Silver_Coin_Heart_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 66,
+                        "TEXCOORD_0": 67,
+                        "POSITION": 68
+                    },
+                    "indices": 65,
+                    "material": 13,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 66,
+                        "TEXCOORD_0": 67,
+                        "POSITION": 68
+                    },
+                    "indices": 69,
+                    "material": 13,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Pet_Silver_Coin_Pet_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 71,
+                        "TEXCOORD_0": 72,
+                        "POSITION": 73
+                    },
+                    "indices": 70,
+                    "material": 14,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 71,
+                        "TEXCOORD_0": 72,
+                        "POSITION": 73
+                    },
+                    "indices": 74,
+                    "material": 14,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_Pet_Gold_Coin_Pet_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 76,
+                        "TEXCOORD_0": 77,
+                        "POSITION": 78
+                    },
+                    "indices": 75,
+                    "material": 15,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 76,
+                        "TEXCOORD_0": 77,
+                        "POSITION": 78
+                    },
+                    "indices": 79,
+                    "material": 15,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_One_Gold_Coin_One_Gold_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 81,
+                        "TEXCOORD_0": 82,
+                        "POSITION": 83
+                    },
+                    "indices": 80,
+                    "material": 16,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 81,
+                        "TEXCOORD_0": 82,
+                        "POSITION": 83
+                    },
+                    "indices": 84,
+                    "material": 16,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coin_One_Silver_Coin_One_Silver_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 86,
+                        "TEXCOORD_0": 87,
+                        "POSITION": 88
+                    },
+                    "indices": 85,
+                    "material": 17,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 86,
+                        "TEXCOORD_0": 87,
+                        "POSITION": 88
+                    },
+                    "indices": 89,
+                    "material": 17,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coins_01_Coins_01_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 91,
+                        "TEXCOORD_0": 92,
+                        "POSITION": 93
+                    },
+                    "indices": 90,
+                    "material": 18,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 91,
+                        "TEXCOORD_0": 92,
+                        "POSITION": 93
+                    },
+                    "indices": 94,
+                    "material": 18,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Coins_02_Coins_02_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 96,
+                        "TEXCOORD_0": 97,
+                        "POSITION": 98
+                    },
+                    "indices": 95,
+                    "material": 19,
+                    "mode": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 96,
+                        "TEXCOORD_0": 97,
+                        "POSITION": 98
+                    },
+                    "indices": 99,
+                    "material": 19,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "matrix": [
+                0.9996376633644104,
+                -0.0031777683179825544,
+                0.026728052645921707,
+                0,
+                0.026916297152638435,
+                0.11801835149526596,
+                -0.9926465749740601,
+                0,
+                0,
+                0.9930063486099243,
+                0.1180611252784729,
+                0,
+                -19.857078552246094,
+                -164.86680603027344,
+                -833.6613159179688,
+                1
+            ],
+            "name": "Sketchfab_model"
+        },
+        {
+            "children": [
+                2
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "5765c83e98734df8b3766b965962cfe0.fbx"
+        },
+        {
+            "children": [
+                3,
+                6,
+                9,
+                12,
+                15,
+                18,
+                21,
+                24,
+                27,
+                30,
+                33,
+                36,
+                39,
+                42,
+                45,
+                48,
+                51,
+                54,
+                57,
+                60
+            ],
+            "name": "RootNode"
+        },
+        {
+            "children": [
+                4
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -48.109,
+                300,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Star_Gold"
+        },
+        {
+            "children": [
+                5
+            ],
+            "name": "Coin_Star_Gold"
+        },
+        {
+            "mesh": 0,
+            "name": "Coin_Star_Gold_Coin_Star_Gold_0"
+        },
+        {
+            "children": [
+                7
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -48.109,
+                200,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Star_Silver"
+        },
+        {
+            "children": [
+                8
+            ],
+            "name": "Coin_Star_Silver"
+        },
+        {
+            "mesh": 1,
+            "name": "Coin_Star_Silver_Coin_Star_Silver_0"
+        },
+        {
+            "children": [
+                10
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -248.109,
+                0,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coin_Silver"
+        },
+        {
+            "children": [
+                11
+            ],
+            "name": "Coin_Silver"
+        },
+        {
+            "mesh": 2,
+            "name": "Coin_Silver_Coin_Silver_0"
+        },
+        {
+            "children": [
+                13
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -248.109,
+                100,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coin_Gold"
+        },
+        {
+            "children": [
+                14
+            ],
+            "name": "Coin_Gold"
+        },
+        {
+            "mesh": 3,
+            "name": "Coin_Gold_Coin_Gold_0"
+        },
+        {
+            "children": [
+                16
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -148.109,
+                300,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Thunder_Gold"
+        },
+        {
+            "children": [
+                17
+            ],
+            "name": "Coin_Thunder_Gold"
+        },
+        {
+            "mesh": 4,
+            "name": "Coin_Thunder_Gold_Coin_Thunder_Gold_0"
+        },
+        {
+            "children": [
+                19
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -148.109,
+                200,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Thunder_Silver"
+        },
+        {
+            "children": [
+                20
+            ],
+            "name": "Coin_Thunder_Silver"
+        },
+        {
+            "mesh": 5,
+            "name": "Coin_Thunder_Silver_Coin_Thunder_Silver_0"
+        },
+        {
+            "children": [
+                22
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                51.891,
+                200,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Skull_Silver"
+        },
+        {
+            "children": [
+                23
+            ],
+            "name": "Coin_Skull_Silver"
+        },
+        {
+            "mesh": 6,
+            "name": "Coin_Skull_Silver_Coin_Skull_Silver_0"
+        },
+        {
+            "children": [
+                25
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                51.891,
+                300,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Skull_Gold"
+        },
+        {
+            "children": [
+                26
+            ],
+            "name": "Coin_Skull_Gold"
+        },
+        {
+            "mesh": 7,
+            "name": "Coin_Skull_Gold_Coin_Skull_Gold_0"
+        },
+        {
+            "children": [
+                28
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                151.891,
+                300,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Crown_Gold"
+        },
+        {
+            "children": [
+                29
+            ],
+            "name": "Coin_Crown_Gold"
+        },
+        {
+            "mesh": 8,
+            "name": "Coin_Crown_Gold_Coin_Crown_Gold_0"
+        },
+        {
+            "children": [
+                31
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                151.891,
+                200,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Crown_Silver"
+        },
+        {
+            "children": [
+                32
+            ],
+            "name": "Coin_Crown_Silver"
+        },
+        {
+            "mesh": 9,
+            "name": "Coin_Crown_Silver_Coin_Crown_Silver_0"
+        },
+        {
+            "children": [
+                34
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -48.109,
+                0,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coin_Dollar_Silver"
+        },
+        {
+            "children": [
+                35
+            ],
+            "name": "Coin_Dollar_Silver"
+        },
+        {
+            "mesh": 10,
+            "name": "Coin_Dollar_Silver_Coin_Dollar_Silver_0"
+        },
+        {
+            "children": [
+                37
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -48.109,
+                100,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coin_Dollar_Gold"
+        },
+        {
+            "children": [
+                38
+            ],
+            "name": "Coin_Dollar_Gold"
+        },
+        {
+            "mesh": 11,
+            "name": "Coin_Dollar_Gold_Coin_Dollar_Gold_0"
+        },
+        {
+            "children": [
+                40
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                251.891,
+                300,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Heart_Gold"
+        },
+        {
+            "children": [
+                41
+            ],
+            "name": "Coin_Heart_Gold"
+        },
+        {
+            "mesh": 12,
+            "name": "Coin_Heart_Gold_Coin_Heart_Gold_0"
+        },
+        {
+            "children": [
+                43
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                251.891,
+                200,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Heart_Silver"
+        },
+        {
+            "children": [
+                44
+            ],
+            "name": "Coin_Heart_Silver"
+        },
+        {
+            "mesh": 13,
+            "name": "Coin_Heart_Silver_Coin_Heart_Silver_0"
+        },
+        {
+            "children": [
+                46
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -248.109,
+                200,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Pet_Silver"
+        },
+        {
+            "children": [
+                47
+            ],
+            "name": "Coin_Pet_Silver"
+        },
+        {
+            "mesh": 14,
+            "name": "Coin_Pet_Silver_Coin_Pet_Silver_0"
+        },
+        {
+            "children": [
+                49
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -248.109,
+                300,
+                0.00000437114,
+                1
+            ],
+            "name": "Coin_Pet_Gold"
+        },
+        {
+            "children": [
+                50
+            ],
+            "name": "Coin_Pet_Gold"
+        },
+        {
+            "mesh": 15,
+            "name": "Coin_Pet_Gold_Coin_Pet_Gold_0"
+        },
+        {
+            "children": [
+                52
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -148.109,
+                100,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coin_One_Gold"
+        },
+        {
+            "children": [
+                53
+            ],
+            "name": "Coin_One_Gold"
+        },
+        {
+            "mesh": 16,
+            "name": "Coin_One_Gold_Coin_One_Gold_0"
+        },
+        {
+            "children": [
+                55
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                -148.109,
+                0,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coin_One_Silver"
+        },
+        {
+            "children": [
+                56
+            ],
+            "name": "Coin_One_Silver"
+        },
+        {
+            "mesh": 17,
+            "name": "Coin_One_Silver_Coin_One_Silver_0"
+        },
+        {
+            "children": [
+                58
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                78.3374,
+                -11.6111,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coins_01"
+        },
+        {
+            "children": [
+                59
+            ],
+            "name": "Coins_01"
+        },
+        {
+            "mesh": 18,
+            "name": "Coins_01_Coins_01_0"
+        },
+        {
+            "children": [
+                61
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1.62921e-7,
+                0,
+                0,
+                -1.62921e-7,
+                1,
+                0,
+                228.337,
+                -11.6111,
+                -0.00000437114,
+                1
+            ],
+            "name": "Coins_02"
+        },
+        {
+            "children": [
+                62
+            ],
+            "name": "Coins_02"
+        },
+        {
+            "mesh": 19,
+            "name": "Coins_02_Coins_02_0"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "sampler": 0,
+            "source": 1
+        },
+        {
+            "sampler": 0,
+            "source": 2
+        },
+        {
+            "sampler": 0,
+            "source": 3
+        },
+        {
+            "sampler": 0,
+            "source": 4
+        },
+        {
+            "sampler": 0,
+            "source": 5
+        },
+        {
+            "sampler": 0,
+            "source": 6
+        },
+        {
+            "sampler": 0,
+            "source": 7
+        },
+        {
+            "sampler": 0,
+            "source": 8
+        },
+        {
+            "sampler": 0,
+            "source": 9
+        },
+        {
+            "sampler": 0,
+            "source": 10
+        },
+        {
+            "sampler": 0,
+            "source": 11
+        },
+        {
+            "sampler": 0,
+            "source": 12
+        },
+        {
+            "sampler": 0,
+            "source": 13
+        },
+        {
+            "sampler": 0,
+            "source": 14
+        },
+        {
+            "sampler": 0,
+            "source": 15
+        },
+        {
+            "sampler": 0,
+            "source": 16
+        },
+        {
+            "sampler": 0,
+            "source": 17
+        },
+        {
+            "sampler": 0,
+            "source": 18
+        },
+        {
+            "sampler": 0,
+            "source": 19
+        },
+        {
+            "sampler": 0,
+            "source": 20
+        },
+        {
+            "sampler": 0,
+            "source": 21
+        },
+        {
+            "sampler": 0,
+            "source": 22
+        },
+        {
+            "sampler": 0,
+            "source": 23
+        },
+        {
+            "sampler": 0,
+            "source": 24
+        },
+        {
+            "sampler": 0,
+            "source": 25
+        },
+        {
+            "sampler": 0,
+            "source": 26
+        },
+        {
+            "sampler": 0,
+            "source": 27
+        },
+        {
+            "sampler": 0,
+            "source": 28
+        },
+        {
+            "sampler": 0,
+            "source": 29
+        },
+        {
+            "sampler": 0,
+            "source": 30
+        }
+    ]
+}
